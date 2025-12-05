@@ -1,6 +1,11 @@
 # 👋 Xin chào, mình là **Phan Thị Khánh Huyền**  
 ### 🌟 Welcome to my GitHub profile!
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khanhhuyenne&color=brightgreen" alt="Huyền's profile views" />
+</p>
+
 ---
 
 ### 💡 Giới thiệu nhanh
